@@ -1,2 +1,2 @@
-# bartin-btbs.github.io
-kişisel site
+# BartınIT
+ bartinit
